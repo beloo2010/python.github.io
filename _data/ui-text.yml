@@ -1,0 +1,4 @@
+breadcrumb_home_label : "Home"
+breadcrumb_separator  : "/"
+breadcrumb_home_label : "Start"
+breadcrumb_separator  : ">"
